@@ -1,0 +1,37 @@
+Candidates: 
+Bob
+Alice
+Joseph
+Charlie
+John
+Jill
+
+---- Round 1 ----
+Bob: 11 votes
+Alice: 9 votes
+Joseph: 2 votes
+Charlie: 6 votes
+John: 2 votes
+Jill: 5 votes
+Eliminated: Joseph
+Eliminated: John
+
+---- Round 2 ----
+Bob: 11 votes
+Alice: 9 votes
+Charlie: 6 votes
+Jill: 9 votes
+Eliminated: Charlie
+
+---- Round 3 ----
+Bob: 11 votes
+Alice: 15 votes
+Jill: 9 votes
+Eliminated: Jill
+
+---- Round 4 ----
+Bob: 11 votes
+Alice: 15 votes
+
+Winner: Alice with 15 votes.
+Winner: Alice
