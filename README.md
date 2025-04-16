@@ -8,6 +8,5 @@ The ranked choice voting scheme is where voters “rank” different candidates 
 
 **Here is the initial UML Diagram that was theorized** 
 
-<p align="center">
-  <img src="https://github.com/SOLShadxw/ranked-choice-voting/blob/main/initUML.png" alt="Basic UML" />
-</p>
+![Basic UML](https://github.com/SOLShadxw/ranked-choice-voting/blob/main/initUML.png)
+
