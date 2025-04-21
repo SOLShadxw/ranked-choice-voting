@@ -25,7 +25,7 @@ The ranked choice voting scheme is where voters “rank” different candidates 
 
 In the attached file, the program checks for the input file, ensuring it exists and is valid for use. if the file does not exist or is unabe to be read, there is an implementation to send an error output. This ensures that the program doesnt crash and that the ballot can in fact be read correctly. 
 
-** Setup for Candidates**
+**Setup for Candidates**
 
 The setup for the candidate class is performed by dynamically creating a list of candidates by scanning through the ballot file, and extracting the unique candidate names. Doing so allows us to identify the candidates and then allowing the porgram to handle an (initially) unknown number of candidates in a way that is flexible. 
 
